@@ -1,3 +1,4 @@
+'use client'
 export default function NoAutorizado() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-slate-50 px-4">
