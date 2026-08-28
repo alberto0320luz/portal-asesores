@@ -72,7 +72,6 @@ export default async function PanelPage() {
             </h1>
             <p className="text-slate-500 text-sm">
      {asesor?.promotoras?.[0]?.nombre || 'Promotora'}
-
             </p>
           </div>
           <Link
